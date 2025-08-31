@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Thanawat
 
 🎓 3rd year Software & Knowledge Engineering student at Kasetsart University  
-💻 Interested in Web Development, Data Analytics, and AI  
+💻 Interested in Web Development and AI  
 🚀 Currently building projects with **Next.js, TailwindCSS, Prisma, Postgresql**  
 
 ---
