@@ -23,8 +23,3 @@
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarothanawat&show_icons=true&theme=tokyonight)
 
 ---
-
-## 🚀 Featured Projects
-- [Parking Lot Management App](https://github.com/tarothanawat/parking-lot-app)  
-- [Cafe Noise Data Analytics](https://github.com/tarothanawat/cafe-data-analytics)  
-- [Hackathon Project: Smart Chiang Mai](https://github.com/tarothanawat/smart-chiangmai)
